@@ -1,3 +1,3 @@
-export default interface HeaderProps {
+import { ReactElement } from "react";
 
-}
+export default interface HeaderProps {};
